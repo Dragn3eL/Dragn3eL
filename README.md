@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/901291703724572703/907088197790629898/unknown.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dragneel [Sourav Sinha]</h1>
 <h3 align="center">I'm a Learning Developer from India.</h3>
 
 
