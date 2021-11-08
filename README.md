@@ -47,7 +47,7 @@
     <a href="https://github.com/Dragn3eL/github-readme-stats"><img alt="Dragn3eL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dragn3eL&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Dragn3eL/github-readme-stats"><img alt="Dragn3eL's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragn3eL&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> i dont know what is exactly means to write perfect code,but i would rather get an output first rather than make a fancy code.
+  <b>Note:</b> I dont know what is exactly means to write perfect code,but i would rather get an output first rather than make a fancy code.
 
 
 <br/>
