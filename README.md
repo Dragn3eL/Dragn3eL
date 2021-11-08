@@ -61,7 +61,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://discord.gg/6yRpW7e3dS"><img src="https://cdn.discordapp.com/emojis/719407676760653905.gif?size=80"/></a>
+<a href = "https://discord.gg/6yRpW7e3dS"><img src="https://cdn.discordapp.com/attachments/901291703724572703/907106178104967189/unknown.png"/></a>
 <a href = "https://www.youtube.com/channel/UCvf6v7TVgKjMAkHZ-JxyvAw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
